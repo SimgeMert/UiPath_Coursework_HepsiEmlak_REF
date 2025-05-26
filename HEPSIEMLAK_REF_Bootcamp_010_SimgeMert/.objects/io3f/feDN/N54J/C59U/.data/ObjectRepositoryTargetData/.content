@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="tdaG92NXCUmAjC5ib5WLVw" Reference="_LSe7oAHAkejcni45l3-xg/C59UdTwIB0WLJB8QyRiecg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="hepsiemlak.com/kutahya-merkez-kiralik" CVScreenId="41229260-18a9-4384-9e35-3473fbd6110a" DesignTimeRectangle="1467, 351, 100, 17" DesignTimeScaleFactor="1" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Aramayı Kaydet' parentid='listPage' tag='SPAN' visibleinnertext='Aramayı Kaydet' /&gt;" Guid="441f9fcf-dcda-4106-8136-3d2c72def016" ScopeSelectorArgument="&lt;html app='chrome.exe' url='https://www.hepsiemlak.com/*' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive" WaitForReadyArgument="Complete">
+      <imageRef attrName="InformativeScreenshot" originalValue="c7bc6d949529ffed03e07bdd2688e24e.png" xmlns="">03lrxRNK22EymK0LkuNOHgw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

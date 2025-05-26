@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Telefonu Göster",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "0SuEPtxCbEuuVxOXW8w8DA",
+  "Reference": "_LSe7oAHAkejcni45l3-xg/0SuEPtxCbEuuVxOXW8w8DA",
+  "ParentRef": "_LSe7oAHAkejcni45l3-xg/N54Jo9j5I0eYqdedDxTtlQ",
+  "Created": "2025-01-27T20:56:30.5061272Z",
+  "Updated": "2025-01-27T20:56:30.5061272Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

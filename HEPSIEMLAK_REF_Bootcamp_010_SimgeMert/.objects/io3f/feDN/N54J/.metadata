@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Hepsiemlak  Satılık, Kiralık Ev & Emla",
+  "Type": "Screen",
+  "Id": "N54Jo9j5I0eYqdedDxTtlQ",
+  "Reference": "_LSe7oAHAkejcni45l3-xg/N54Jo9j5I0eYqdedDxTtlQ",
+  "ParentRef": "_LSe7oAHAkejcni45l3-xg/feDNQOHRAUKSGJuyvr5O3A",
+  "Created": "2025-01-27T17:27:15.4998008Z",
+  "Updated": "2025-01-27T17:27:15.4998008Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

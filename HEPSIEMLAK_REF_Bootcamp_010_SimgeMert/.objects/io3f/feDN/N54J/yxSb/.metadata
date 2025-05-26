@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Sırala",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "yxSbgLjt8Ee9h1EPi4Pkng",
+  "Reference": "_LSe7oAHAkejcni45l3-xg/yxSbgLjt8Ee9h1EPi4Pkng",
+  "ParentRef": "_LSe7oAHAkejcni45l3-xg/N54Jo9j5I0eYqdedDxTtlQ",
+  "Created": "2025-01-27T20:12:32.6058436Z",
+  "Updated": "2025-01-27T20:12:32.6058436Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

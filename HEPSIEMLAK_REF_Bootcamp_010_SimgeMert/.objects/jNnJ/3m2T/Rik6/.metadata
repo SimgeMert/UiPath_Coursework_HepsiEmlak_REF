@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Bağcılar Kiralık Konut İlanları ve Fiy",
+  "Type": "Screen",
+  "Id": "Rik6vhyaT0Wtevit0MQLBA",
+  "Reference": "_LSe7oAHAkejcni45l3-xg/Rik6vhyaT0Wtevit0MQLBA",
+  "ParentRef": "_LSe7oAHAkejcni45l3-xg/3m2TDNBM6k-uT_jyAAnshQ",
+  "Created": "2025-01-27T10:52:03.5033422Z",
+  "Updated": "2025-01-27T10:52:03.5033422Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

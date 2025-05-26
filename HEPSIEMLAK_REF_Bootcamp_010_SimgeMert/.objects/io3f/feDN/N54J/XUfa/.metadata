@@ -1,0 +1,14 @@
+﻿{
+  "Name": "için 0 ilan bulundu",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "XUfaqJCMUkifJZEsfAEITw",
+  "Reference": "_LSe7oAHAkejcni45l3-xg/XUfaqJCMUkifJZEsfAEITw",
+  "ParentRef": "_LSe7oAHAkejcni45l3-xg/N54Jo9j5I0eYqdedDxTtlQ",
+  "Created": "2025-01-27T20:14:32.813717Z",
+  "Updated": "2025-01-27T20:14:32.813717Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

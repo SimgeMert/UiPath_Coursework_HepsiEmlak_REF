@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="C2myRvfPp0iaK1eOe3ezYQ" Reference="_LSe7oAHAkejcni45l3-xg/XUfaqJCMUkifJZEsfAEITw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="hepsiemlak.com/bagcilar-kiralik" CVScreenId="f160ac26-3e94-4278-8de9-6336a9964dcd" DesignTimeRectangle="819, 400, 145, 22" DesignTimeScaleFactor="1" ElementType="Text" FullSelectorArgument="&lt;webctrl class='applied-filters__count' parentid='listPage' tag='SPAN' parentclass='applied-filters__title' visibleinnertext='için 0 ilan bulundu' /&gt;" Guid="87491b06-75b7-4fe6-a0b6-5e7434b1b055" ScopeSelectorArgument="&lt;html app='chrome.exe' url='https://www.hepsiemlak.com/*' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive" WaitForReadyArgument="Complete">
+      <imageRef attrName="InformativeScreenshot" originalValue="f541e9f22713d892283d34a685c9b0d1.png" xmlns="">0i2JkwHfAW0GUEvDVDvkDaA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

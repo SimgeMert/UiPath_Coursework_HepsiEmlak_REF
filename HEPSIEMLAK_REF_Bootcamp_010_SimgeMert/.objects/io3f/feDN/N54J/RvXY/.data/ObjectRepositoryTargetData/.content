@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="aIKNnX4ysEC6Bg9JK0ufwg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="hepsiemlak.com/osmangazi-satilik" CVScreenId="6d257874-b89a-4406-aef1-6b5dc4fb946c" DesignTimeRectangle="655, 713, 159, 36" DesignTimeScaleFactor="1" ElementType="Button" FullSelectorArgument="&lt;webctrl tag='BUTTON' type='button' /&gt;" Guid="46fd5fac-daff-4355-b391-e0715897fa06" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Osmangazi Satılık Ev Fiyatları ve İlanları' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="d1b68adf97da4f779c032f30828244f9.png" xmlns="">0DJO1ThFzLEeeUBDyCAr_OA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetAttributeGeneric</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

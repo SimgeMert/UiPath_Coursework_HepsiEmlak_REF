@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="e2h0jv-13kSO75KP5C7--g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="hepsiemlak.com/bagcilar-kiralik" CVScreenId="fe3ef2dd-f445-42d0-ac00-9a24fd9e7458" DesignTimeRectangle="1493, 498, 95, 40" DesignTimeScaleFactor="1" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='     Sırala   ' aria-role='button' tag='A' parentid='listPage' visibleinnertext='Sırala' /&gt;" Guid="13e7f894-167c-499d-a95f-d50e10e51121" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' url='https://www.hepsiemlak.com/*' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="9b0e2d46fec2413be1984905a34b898c.png" xmlns="">0ilVpYAI8pU2HIejncIljHg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

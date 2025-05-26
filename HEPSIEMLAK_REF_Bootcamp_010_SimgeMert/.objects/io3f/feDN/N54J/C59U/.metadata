@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Aramayı Kaydet",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "C59UdTwIB0WLJB8QyRiecg",
+  "Reference": "_LSe7oAHAkejcni45l3-xg/C59UdTwIB0WLJB8QyRiecg",
+  "ParentRef": "_LSe7oAHAkejcni45l3-xg/N54Jo9j5I0eYqdedDxTtlQ",
+  "Created": "2025-01-27T17:27:15.7638403Z",
+  "Updated": "2025-01-27T17:27:15.7638403Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
